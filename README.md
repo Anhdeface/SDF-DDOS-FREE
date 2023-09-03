@@ -9,6 +9,8 @@ METHODS : TLS - HTTP-PROXY - CF
 ![](https://img.shields.io/github/issues/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/karthik558/ddos-attack?style=for-the-badge)
 
+#READ CAREFULLY
+THIS IS A PRODUCT FOR LEARNING AND RESEARCH, PLEASE DO NOT TEST WITHOUT THE PERMISSION OF THE WEBMASTER
 
 ## Table of Contents
 
@@ -45,6 +47,7 @@ To use the project, follow these steps:
 ENTER KEY -> ENJOY 
 
 ## NOTE:
+
 NO DDOS WEB .gov , .edu
 
 ## INFO
