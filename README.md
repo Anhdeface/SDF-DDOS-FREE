@@ -15,9 +15,8 @@ METHODS : TLS - HTTP-PROXY - CF
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [License](#lnote)
+- [INFO](#info)
 
 ## Getting Started
 
