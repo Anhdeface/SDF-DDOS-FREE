@@ -6,7 +6,6 @@ METHODS : TLS - HTTP-PROXY - CF
 ![](https://img.shields.io/github/license/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/forks/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/stars/karthik558/ddos-attack?style=for-the-badge)
-![](https://img.shields.io/github/issues/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/karthik558/ddos-attack?style=for-the-badge)
 
 #READ CAREFULLY
@@ -42,15 +41,14 @@ git clone https://github.com/Anhdeface/SDF-DDOS-FREE
 To use the project, follow these steps:
 
 - Open the terminal and run the following command:
-- `cd SDF-DDOS-FREE`
-- `pip install -r requirements.txt`
-- `python3 sdf.py`
+- ```cd SDF-DDOS-FREE```
+- ```pip install -r requirements.txt```
+- ```python3 sdf.py```
 
 ENTER KEY -> ENJOY 
 
 ## NOTE:
-
-NO DDOS WEB .gov , .edu
+- BANNING GOVERNMENT WEB ATTACKS INCLUDES: .gov, .edu
 
 ## INFO
 
