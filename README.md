@@ -18,7 +18,7 @@ To get started with the project, simply clone the repository to your local machi
 ```
 git clone https://github.com/Anhdeface/SDF-DDOS-FREE
 ```
-## HOW TO GET KEY ON PHONE
+## HOW TO GET KEY ON PHONE,WINDOWS,LINUX
 - ON TOOL
 ## Requirements
 - `Linux or Windows`
