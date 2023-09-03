@@ -6,7 +6,6 @@ METHODS : TLS - HTTP-PROXY - CF
 ![](https://img.shields.io/github/license/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/forks/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/stars/karthik558/ddos-attack?style=for-the-badge)
-![](https://img.shields.io/github/languages/code-size/karthik558/ddos-attack?style=for-the-badge)
 
 #READ CAREFULLY
 ```
