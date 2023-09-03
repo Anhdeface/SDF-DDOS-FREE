@@ -11,15 +11,6 @@ METHODS : TLS - HTTP-PROXY - CF
 ```
 THIS IS A PRODUCT FOR LEARNING AND RESEARCH, PLEASE DO NOT TEST WITHOUT THE PERMISSION OF THE WEBMASTER
 ```
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [License](#lnote)
-- [INFO](#info)
-
 ## Getting Started
 
 To get started with the project, simply clone the repository to your local machine:
@@ -27,27 +18,28 @@ To get started with the project, simply clone the repository to your local machi
 ```
 git clone https://github.com/Anhdeface/SDF-DDOS-FREE
 ```
-
+## HOW TO GET KEY ON PHONE
+- ON TOOL
 ## Requirements
-
-- Python 3.9 or higher
-- Nslookup {optional}
-- Linux or Windows
-- Termux new
-
+- `Linux or Windows`
+- `Termux new`
 ## Usage
-
-To use the project, follow these steps:
-
-- Open the terminal and run the following command:
-- ```cd SDF-DDOS-FREE```
-- ```pip install -r requirements.txt```
-- ```python3 sdf.py```
-
-ENTER KEY -> ENJOY 
+ ```
+ cd SDF-DDOS-FREE
+```
+ ```
+ pip install -r requirements.txt
+```
+ ```
+ python3 sdf.py
+```
+ENTER KEY -> ENJOY
+```
+KEY FREE IN TOOL
+```
 
 ## NOTE:
-- BANNING GOVERNMENT WEB ATTACKS INCLUDES: .gov, .edu
+- ```BANNING GOVERNMENT WEB ATTACKS INCLUDES: .gov, .edu```
 
 ## INFO
 
