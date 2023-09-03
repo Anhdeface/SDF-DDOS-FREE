@@ -9,7 +9,6 @@ METHODS : TLS - HTTP-PROXY - CF
 ![](https://img.shields.io/github/issues/karthik558/ddos-attack?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/karthik558/ddos-attack?style=for-the-badge)
 
-![IMAGE](./img/banner.png)
 
 ## Table of Contents
 
